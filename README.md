@@ -20,7 +20,7 @@
 
 *Todo esto para mejorar y desarrollar aun mas mis habilidades y capacidades técnicas.*
 
-## ⚙️ Sistemas operativos ⚙️
+## ⚙️ Sistemas Operativos ⚙️
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)     ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
