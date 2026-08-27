@@ -19,7 +19,7 @@
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)     ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-## 🧰 Tecnologías y Herramientas
+## 🧰 Tecnologías y Herramientas 🧰
  
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -31,3 +31,8 @@
   <img src="https://img.shields.io/badge/Nmap-2C5B72?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
+
+## 🌐 Contacto 🌐
+[![discord](https://img.shields.io/badge/Discord-spyk3r-a?style=plastic&logo=discord&logoColor=white&labelColor=black&color=7289DA)](https://discord.com/users/452720652500205579)
+
+![email](https://img.shields.io/badge/ProtonMail-spyk3rr%40proton.me-a?style=plastic&logo=protonmail&logoColor=white&labelColor=black&color=8B89CC)
