@@ -1,3 +1,6 @@
+<img data-importer="image" align="right" height="540" src="https://i.pinimg.com/originals/b3/da/bc/b3dabc47f66ffd2d4830f5a3e440e5f1.gif"  />
+
+
 <div align="center">
 
 # 🔍 Sobre Mi 🔎
