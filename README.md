@@ -9,7 +9,7 @@
 
 </div>
 
-*Hola, soy Spyk3r, un chico apasionado por la Ciberseguridad y el Hacking. Actualmente me enfoco en aprender los métodos y las herramientas utilizados para auditar y salvaguardar la seguridad de la información, con el objetivo a futuro de especializarme en Ciberseguridad Ofensiva y formar parte de un Red Team.*
+*Hola, soy Spyk3r, un chico apasionado por la Ciberseguridad y el Hacking, con buenas bases en Ingenieria Social y Phishing. Actualmente me enfoco en aprender los métodos y las herramientas utilizados para auditar y salvaguardar la seguridad de la información, con el objetivo a futuro de especializarme en Ciberseguridad Ofensiva y formar parte de un Red Team.*
 
 
 *Siempre estoy dispuesto a explorar lo que aún no conozco y ponerlo en práctica.*
